@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-"# Flutter-Projects" 
-"# Flutter-Projects" 
-=======
 # abcdef
 
 A new Flutter project.
